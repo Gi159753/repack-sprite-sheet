@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repack Sprite Sheet"
+  short_description: "Repack transparent sprite sheets into clean engine-ready grids."
+  default_prompt: "Repack this transparent sprite sheet into a clean, evenly spaced sequence sheet for game development."
