@@ -234,4 +234,5 @@ wrote output.png (448x128), 16 frames, 8 columns, cell 56x64
 
 ## License
 
-如果你准备公开给别人使用，建议在仓库中补充一个明确的 LICENSE 文件。
+This project is open-source under the MIT License, available for both commercial and non-commercial use.
+See the LICENSE file located in the root directory for complete license terms.
